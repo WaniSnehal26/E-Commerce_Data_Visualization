@@ -21,14 +21,14 @@ Compare sales performance across different regions.
 Interactive dashboards for dynamic data exploration.
 
 - Technologies Used
-Python
-Pandas
-Matplotlib
-Seaborn
-Plotly
-Dash
-ipywidgets
-Jupyter Notebooks
+-Python
+-Pandas
+-Matplotlib
+-Seaborn
+-Plotly
+-Dash
+-ipywidgets
+-Jupyter Notebooks
 
 - Usage
 Prepare your e-commerce sales data in CSV or Excel format.
